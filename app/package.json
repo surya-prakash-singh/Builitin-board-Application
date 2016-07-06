@@ -1,0 +1,29 @@
+{
+  "name": "bulletin-board",
+  "version": "1.0.0",
+  "description": "A React Application",
+  "main": "notes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"babel src -d build",
+    "start":"open http://localhost:3000/notes.html &httpster -p 3000"
+  },
+  "babel": {
+    "presets":["react"]
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "bulletin",
+    "board"
+  ],
+  "author": "\"Surya Prakash\"",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.4.0",
+    "babel-preset-react":"^6.3.13"
+  },
+  "dependencies":{
+    "httpster":"^1.0.1"
+  }
+}

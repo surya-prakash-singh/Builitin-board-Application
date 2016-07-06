@@ -1,0 +1,74 @@
+#react-container{
+  height: 100%;
+  width: 100%;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+.mdl-button--colored{
+  position: absolute;
+  left: 80%;
+  top: 2%;
+}
+.mdl-card,.mdl-shadow
+{
+  color: #616E14;
+  background-color: rgb(255,255,0) !important;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  height: 200px;
+  width:200px;
+  position: absolute;
+
+}
+.board{
+  background-color: #ffbb55;
+  height: 100%;
+  width: 100%;
+}
+.textdecor
+{
+  color: #616E14;
+  background-color: rgb(255,255,0) !important;
+  overflow: visible !important;
+  height:120px;
+  font-family: 'Tangerine', serif;
+  font-size: 26px;
+  font-weight: bold;
+  border:none;
+}
+.note{
+  color: #616E14;
+  background-color: rgb(255,255,0) !important;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  height: 200px;
+  width:200px;
+}
+.mdl-card__supporting-text{
+  overflow: visible !important;
+  height:120px;
+  font-family: 'Tangerine', serif;
+  font-size: 26px;
+  font-weight: bold;
+}
+.sizebutton
+{
+  margin-top:10px;
+  margin-left: 21px;
+  width: 2%;
+  height: 15%;
+  border-radius: 0px !important;
+}
+
+.mdl-button--icon
+{
+  background-color: white;
+  margin-left: 15px;
+  border-radius: 0px !important;
+  width: 60px;
+  margin-top: 5px;
+}
