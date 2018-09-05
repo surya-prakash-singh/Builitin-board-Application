@@ -4,7 +4,7 @@ A Builitin Board Application Built using React Js,Material Design Lite.
 
 
 
-######To get started, clone the repository to your local
+###### To get started, clone the repository to your local
 
 - git clone https://github.com/Surya11111/Builitin-board-Application.git
 
