@@ -1,7 +1,16 @@
-A simple buitin board  application using react js,javascript,Material Design Lite
+A Builitin Board Application Built using React Js,Material Design Lite.
 
-To run
+- I was in need of organizing my things and what is better that to have a application that reminds me of each and everything thing :)
 
-Step1:npm install 
-Step2:npm run build
-Step3:npm start
+
+
+######To get started, clone the repository to your local
+
+- git clone https://github.com/Surya11111/Builitin-board-Application.git
+
+- npm install 
+- npm run build
+- npm start
+
+
+######Recommended for personal Use
